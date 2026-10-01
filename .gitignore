@@ -1,0 +1,5 @@
+venv/
+data/chroma/
+get-pip.py
+__pycache__/
+.ipynb_checkpoints/

@@ -1,0 +1,94 @@
+=== SOURCE ===
+https://cscuk.fcdo.gov.uk/scholarships-filter-search/
+
+=== LICENSE / TERMS ===
+https://cscuk.fcdo.gov.uk/terms
+
+=== CRAWLED ===
+2026-09-30
+
+=== CONTENT ===
+Scholarships Filter Search - Commonwealth Scholarship Commission in the UK
+Apply for Scholarships
+Select a country from the drop-down menu below to see which Commonwealth Scholarships are available to you.
+The majority of the CSC’s awards are funded by the
+UK Foreign, Commonwealth and Development Office.
+Commonwealth Scholarships and Fellowships provide talented and motivated individuals with the opportunity to enhance knowledge and skills in their given sector, in order to contribute to sustainable development in their home countries. These awards are offered under six development themes:
+Science and technology for development
+Promoting innovation and entrepreneurship
+Strengthening resilience and response to crises
+Improving population health, health systems and capacity
+Strengthening global peace, security and governance
+Access, inclusion and opportunity
+All Scholarships are part-funded by
+UK host universities
+.
+We are aware of an organisation naming themselves the ‘Commonwealth Exchange Scholarship Council’ who have listed various Commonwealth Scholarship programmes (which are funded by FCDO) on its website. Please be aware this is not an official partner organisation for the Commonwealth Scholarship Commission nor the Association of Commonwealth Universities.
+With various Commonwealth Scholarship programmes opening for applications over the coming weeks, we would like to remind prospective applicants to use only the official CSC website and systems when applying.
+Applications for Commonwealth Scholarships are only managed directly by the CSC which can be accessed via the application pages on the CSC website:
+https://cscuk.fcdo.gov.uk/
+Please be cautious of third-party websites requesting personal information or supporting documentation. The CSC will never ask applicants to attend in-person screening events as part of its scholarship selection process, and supporting documentation should only be submitted through the official application system.
+Choose your country from the drop-down menu below to find out your eligibility for the various
+Commonwealth Scholarship and Fellowship programmes
+.
+We use cookies to enhance your browsing experience and analyse our traffic. By clicking "Accept All", you consent to our use of cookies.
+Reject
+Read More
+Privacy & Cookies Policy
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+Necessary
+Necessary
+Always Enabled
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Functional
+Functional
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+Duration
+Description
+lidc
+1 day
+LinkedIn sets the lidc cookie to facilitate data center selection.
+li_gc
+6 months
+Linkedin set this cookie for storing visitor's consent regarding using cookies for non-essential purposes.
+Performance
+Performance
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Analytics
+Analytics
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+Duration
+Description
+CLARITY_ID
+Session
+Microsoft Clarity - identifies the current session for heatmaps and recordings.
+_clck
+1 year
+Microsoft Clarity - stores a unique user ID to recognise returning visits.
+_clsk
+1 day
+Microsoft Clarity - connects multiple page views into a single session.
+_ga
+1 year 1 month 4 days
+Google Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors.
+_ga_*
+1 year 1 month 4 days
+Google Analytics sets this cookie to store and count page views.
+Advertisement
+Advertisement
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+Duration
+Description
+bcookie
+1 year
+LinkedIn sets this cookie from LinkedIn share buttons and ad tags to recognize browser IDs.
+iutk
+6 months
+Issuu sets this cookie to recognise the user's device and what Issuu documents have been read.
+Others
+Others
+Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+SAVE & ACCEPT
+Powered by

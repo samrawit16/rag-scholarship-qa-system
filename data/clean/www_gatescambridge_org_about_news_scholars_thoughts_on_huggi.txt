@@ -1,0 +1,115 @@
+=== SOURCE ===
+https://www.gatescambridge.org/about/news/scholars-thoughts-on-hugging-face-widely-cited/
+
+=== LICENSE / TERMS ===
+https://www.gatescambridge.org/privacy-cookies/
+
+=== CRAWLED ===
+2026-09-30
+
+=== CONTENT ===
+Scholar’s thoughts on Hugging Face widely cited - Gates Cambridge
+Skip to main content
+Programme
+The scholarship
+The experience
+The University
+Apply
+Eligibility
+Criteria
+Timeline
+How to apply
+How we select
+Frequently Asked Questions
+Our Scholars
+Directory
+News
+Films and podcast
+Publications
+About
+The Trust
+People
+Our values
+Contact
+Members
+Current Scholars
+Alumni
+Scholar’s thoughts on Hugging Face widely cited
+September 29, 2026
+Our Scholars
+News
+An article by Eryk Salvaggio on the Hugging Face incident has been widely cited.
+My worry is the intelligence that is retreating: the human intelligence that builds, deploys, and adopts these systems into workflows, but hides behind the results - and pins the blame on a system from nowhere.
+Eryk Salvaggio
+An article written by Scholar Eryk Salvaggio that questions the prevailing narrative about the Hugging Face incident has been cited in major newspapers, from the New York Times to the Washington Post.
+Eryk wrote his article, Models don’t go rogue, was recently republished
+by the Bulletin of the Atomic Scientists.
+The organisation is also the keeper of the symbolic
+Doomsday Clock
+, the time of which is announced each January.
+Eryk Salvaggio
+In it, Eryk questioned the reporting around the OpenAI Hugging Face hacking incident, which
+involved more than 1,000 autonomous AI agents breaking out of their testing environment and coordinating an attack on the open-source platform, Hugging Face.
+He said it was not so much about AI going rogue as about the humans who set up the testing environment. He writes: “
+If you optimise a model to find exploits in a buggy environment, you should expect it to find exploits and prepare for that outcome. OpenAI did not. They built a model, took the safeguards off, gave it the ExploitGym task, and let it run. That is not rogue AI, it’s human decision-making.”
+He adds: “When human accountability evaporates from these assessments, what’s left is what I call the
+system from nowhere
+: a boundary focused on the technical system, rather than the decisions that build and influence it.”
+Eryk says the rogue narrative offers up “fantasies of a machine getting smarter” when the real problem is about human intelligence. He states: “My worry is the intelligence that is retreating: the human intelligence that builds, deploys, and adopts these systems into workflows, but hides behind the results – and pins the blame on a system from nowhere.”
+The article has been referred to by the Washington Post, the New York Times, including in
+an op-ed where Eryk is named
+,
+and the Telegraph and it is linked in
+an MIT Technology Review piece
+.
+Eryk
+[2025] has
+worked for decades in the area of arts and technology. His interest was ignited back in the 1990s when he discovered the net.art movement and became involved in experimental online art and writing. His PhD aims to produce frameworks that examine assumptions about the use of generative AI in policy, pedagogy and design. He says: “I am interested in what this technology is capable of, what we want to say yes to and how we use the humanities lens to understand what patterns and what new things it may be creating. I am trying to figure out how we approach this newness, how we use it for the benefit of human problems so we can be proactive and not overtaken by it.”
+*
+Top photo by
+Igor Omilaev
+on
+Unsplash
+Latest News
+All News
+September 29, 2026
+Scholar’s thoughts on Hugging Face widely cited
+An article written by Scholar Eryk Salvaggio that questions the prevailing narrative about the Hugging Face incident has been cited in major newspapers, from the New York Times to the [...]
+September 28, 2026
+Gates Cambridge Originals: Sanjana Mehta
+Sanjana Mehta [2001] thrives on learning and she has not been afraid to pivot during her career, embracing new ideas, knowledge and challenges. Her academic training is in psychology and [...]
+September 26, 2026
+Scholar to command NASA space mission
+Gates Cambridge Scholar Kayla Barron [2010] will serve as spacecraft commander of NASA’s SpaceX Crew-14 mission to the International Space Station which will launch no earlier than spring 2027. The [...]
+September 24, 2026
+Aerial maps reveal successful woodland expansion in Scotland
+A University of Cambridge team, co-led by Gates Cambridge Scholar Aland Chan, has used aerial surveys across a huge swathe of the Cairngorms National Park in Scotland to create detailed [...]
+All News
+Programme
+The Scholarship
+The experience
+The University
+Apply
+Eligibility
+Criteria
+Timeline
+How to apply
+How we select
+Frequently Asked Questions
+Our Scholars
+Directory
+News
+Films and podcast
+Publications
+About
+The Trust
+People
+Our values
+Contact
+© 2026 Gates Cambridge Trust
+Accessibility
+Data Protection
+Disclaimer
+Modern Slavery
+Privacy and cookies
+Sitemap

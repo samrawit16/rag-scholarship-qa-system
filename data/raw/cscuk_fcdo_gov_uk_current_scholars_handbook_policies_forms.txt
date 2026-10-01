@@ -1,0 +1,133 @@
+=== SOURCE ===
+https://cscuk.fcdo.gov.uk/current-scholars/handbook-policies-forms/
+
+=== LICENSE / TERMS ===
+https://cscuk.fcdo.gov.uk/terms
+
+=== CRAWLED ===
+2026-09-30
+
+=== CONTENT ===
+Handbook, Policies and Forms - Commonwealth Scholarship Commission in the UK
+Handbooks, Policies and Forms
+This page brings together the CSC’s policies relating to Scholars and Fellows as well as our Handbooks and the key forms and policies which Scholars and Fellows will find useful.
+CSC Handbooks
+These Handbooks provides general guidelines for Commonwealth PhD Scholars, Commonwealth Master’s Scholars, Commonwealth Shared Scholars, and Commonwealth Split-site Scholars.
+Handbook for Commonwealth Scholars (Master’s, PhD, and Split-site)
+Handbook for Commonwealth Shared Scholars
+CSC Forms
+Bank Account Form
+Claim for Reimbursement Form
+Departure Form (Master’s Scholars only)
+Departure Form (PhD and Split-site PhD Scholars only)
+Exceptional Welfare Extension Form
+Family Record Form
+Fieldwork Information Form
+Health and Disability Form
+Mid-term Visit Form
+Registration Form
+Stipend Advance Form
+On Award Policies
+CSC Compassionate Policy
+The CSC has a compassionate airfare and leave policy for award-holders that are affected by the bereavement of a partner or first-degree relative
+CSC Exceptional Welfare Extension Policy
+The Exceptional Welfare Extension Policy can be used by Scholars to request a short extension of their scholarship if there are significant and unavoidable welfare circumstances. This policy should be read alongside the
+Exceptional Welfare Extension Guidance
+.
+CSC Maternity and Paternity Policy
+The maternity and paternity policy applies to PhD and Split-Site Scholars who have the agreement of their university to either take maternity leave in the UK or to return to their home country to give birth.
+Other CSC Policies
+CSC Code of Conduct for Award Holders
+Scholars and Fellows should ensure that they are familiar with the CSC’s Code of Conduct for Award-holders and abide by it at all times.
+CSC Code of Conduct for Alumni
+Commonwealth Alumni should ensure that they are familiar with the CSC’s Code of Conduct for Alumni and abide by it at all times.
+CSC Code of Conduct for Virtual Events
+Commonwealth Scholars, Fellows and Alumni should ensure that they are familiar with the CSC’s Code of Conduct for Virtual Events and abide by it when attending online events.
+CSC Award-holder Disciplinary Policy and Procedure
+The CSC is committed proactively to safeguard and promote the welfare of our beneficiaries, and to protect its staff, Commissioners, beneficiaries and all those with whom the CSC comes into contact. The CSC requires staff, members of the Commission, applicants for and recipients of CSC awards and suppliers to act consistently with its requirements for safeguarding. Award-holders should make sure that they are familiar with their UK host institution’s own safeguarding policy and procedure including reporting mechanisms in case they should need to use it, but should also note the CSC’s Safeguarding Policy.
+CSC Safeguarding Policy
+The CSC is committed proactively to safeguard and promote the welfare of our beneficiaries, and to protect its staff, Commissioners, beneficiaries and all those with whom the CSC comes into contact. The CSC requires staff, members of the Commission, applicants for and recipients of CSC awards and suppliers to act consistently with its requirements for safeguarding. Award-holders should make sure that they are familiar with their UK host institution’s own safeguarding policy and procedure including reporting mechanisms in case they should need to use it, but should also note the
+CSC’s Safeguarding Policy
+which sets out the obligation for staff, members of the Commission, applicants for and recipients of CSC awards and suppliers to act consistently with its requirements for safeguarding.
+Any safeguarding concerns should be reported to the CSC at:
+csc.safeguarding@cscuk.org.uk
+CSC Anti-Fraud, Bribery and Corruption Policy Procedure
+The CSC Anti-Fraud, Bribery and Corruption Policy sets out the standards that must be met and clarifies the actions that individuals need to make with regards to actual or perceived fraud, bribery or corruption.
+CSC Complaints Policy and Procedure
+The CSC Complaints Policy and Procedure sets out the mechanism for reporting a complaint against actions taken by the Commonwealth Scholarship Commission (CSC), its members, members of the CSC Secretariat, CSC delivery partners, and CSC Scholars and Fellows in so far as their actions are related to the CSC.
+CSC Whistleblowing Policy and Procedure
+The CSC Whistleblowing Policy and Procedure sets out the way in which individuals may raise any concerns that they have regarding the CSC and how those concerns will be dealt with.
+CSC Travel Policy
+The CSC Travel Policy outlines the procedure for travel to and from the UK for Scholars at the beginning and end of their award.
+Read our quick guide on
+booking with Diversity Travel
+before making your travel arrangements.
+CSC Policy on Requests to Enter or Remain in the United Kingdom for Further Study
+The CSC has a policy on requests to return or remain in the UK to undertake doctoral study.
+Equity, Access and Inclusion Policy
+This Equity, Access and Inclusion Policy outlines the CSC’s responsibility to develop an environment and community free from discrimination for all those who encounter the CSC.
+We use cookies to enhance your browsing experience and analyse our traffic. By clicking "Accept All", you consent to our use of cookies.
+Accept All
+Reject
+Read More
+Privacy & Cookies Policy
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+Necessary
+Necessary
+Always Enabled
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Functional
+Functional
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+Cookie
+Duration
+Description
+lidc
+1 day
+LinkedIn sets the lidc cookie to facilitate data center selection.
+li_gc
+6 months
+Linkedin set this cookie for storing visitor's consent regarding using cookies for non-essential purposes.
+Performance
+Performance
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Analytics
+Analytics
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+Cookie
+Duration
+Description
+CLARITY_ID
+Session
+Microsoft Clarity - identifies the current session for heatmaps and recordings.
+_clck
+1 year
+Microsoft Clarity - stores a unique user ID to recognise returning visits.
+_clsk
+1 day
+Microsoft Clarity - connects multiple page views into a single session.
+_ga
+1 year 1 month 4 days
+Google Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors.
+_ga_*
+1 year 1 month 4 days
+Google Analytics sets this cookie to store and count page views.
+Advertisement
+Advertisement
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+Cookie
+Duration
+Description
+bcookie
+1 year
+LinkedIn sets this cookie from LinkedIn share buttons and ad tags to recognize browser IDs.
+iutk
+6 months
+Issuu sets this cookie to recognise the user's device and what Issuu documents have been read.
+Others
+Others
+Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+SAVE & ACCEPT
+Powered by
